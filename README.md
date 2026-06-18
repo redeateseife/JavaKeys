@@ -59,18 +59,18 @@ Click a piano key to play its corresponding note.
 ```
 | Press Key | Play Note |
 |-----------|-----------|
-| A         | C3        |
-| W         | C#3       |
-| S         | D3        |
-| E         | D#3       |
-| D         | E3        |
-| F         | F3        |
-| U         | F#3       |
-| J         | G3        |
-| I         | G#3       |
-| K         | A3        |
-| O         | A#3       |
-| L         | B3        |
+| A         | C4        |
+| W         | C#4       |
+| S         | D4        |
+| E         | D#4       |
+| D         | E4        |
+| F         | F4        |
+| U         | F#4       |
+| J         | G4        |
+| I         | G#4       |
+| K         | A4        |
+| O         | A#4       |
+| L         | B4        |
 ```
 
 ## Implementation Details
@@ -99,8 +99,8 @@ both mouse and keyboard input events.
 
 ## Demo
 ```
-Press 'A' -> plays C3
-Click 'U' -> plays F#3
+Press 'A' -> plays C4
+Click 'U' -> plays F#4
 ```
 #### Windows
 ![JavaKeys - Windows](images/javakeys-windows.png)
