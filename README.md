@@ -6,8 +6,6 @@ JavaKeys is a piano application built using Java Swing, supports mouse and keybo
 ## Author
 Redeate Seife
 
-CSCI E-10b - Spring 2026
-
 ## Features
 - Interactive piano interface
 - Mouse and keyboard input
