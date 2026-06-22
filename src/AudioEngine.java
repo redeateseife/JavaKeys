@@ -1,13 +1,3 @@
-// AudioEngine.java
-
-/**
- * AudioEngine provides sound to JavaKeys.
- *
- * @author Redeate Seife
- * @since 2026-05-15
- * @version 2.0
- */
-
 import java.io.*;
 import java.util.*;
 import javax.sound.sampled.*;
