@@ -1,13 +1,3 @@
-// Piano.java
-
-/**
- * Piano notes the keys.
- *
- * @author Redeate Seife
- * @since 2026-05-15
- * @version 2.0
- */
-
 import java.awt.*;
 import java.util.*;
 import javax.swing.*;
@@ -163,10 +153,6 @@ public class Piano extends JLayeredPane {
     /**
      * Inner class - PianoHUD creates a heads-up display (HUD)
      * that outputs information to the user.
-     *
-     * @author Redeate Seife
-     * @since 2026-05-16
-     * @version 2.0
      */
     private class PianoHUD extends JPanel {
 
