@@ -100,7 +100,7 @@ both mouse and keyboard input events.
 ## Demo
 ```
 Press 'A' -> plays C4
-Click 'U' -> plays F4
+Click 'F' -> plays F4
 ```
 #### Windows
 ![JavaKeys - Windows](images/javakeys-windows.png)
