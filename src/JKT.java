@@ -1,14 +1,3 @@
-// JKT.java
-
-/**
- * Short for JavaKeysTheme, JKT stores
- * the theme related variables of JavaKeys.
- *
- * @author Redeate Seife
- * @since 2026-05-15
- * @version 2.0
- */
-
 import java.awt.*;
 import javax.swing.*;
 
