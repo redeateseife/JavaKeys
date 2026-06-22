@@ -1,13 +1,3 @@
-// InputController.java
-
-/**
- * InputController ensures correct user input handling.
- *
- * @author Redeate Seife
- * @since 2026-05-15
- * @version 2.0
- */
-
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
