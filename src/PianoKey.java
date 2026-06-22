@@ -1,13 +1,3 @@
-// PianoKey.java
-
-/**
- * PianoKey initializes attributes.
- *
- * @author Redeate Seife
- * @since 2026-05-15
- * @version 2.0
- */
-
 import java.awt.*;
 import javax.swing.*;
 
