@@ -1,13 +1,3 @@
-// JavaKeys.java
-
-/**
- * JavaKeys, the Piano, is created.
- *
- * @author Redeate Seife
- * @since 2026-05-15
- * @version 2.0
- */
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
@@ -31,23 +21,11 @@ public class JavaKeys extends JFrame {
 
     public JavaKeys(String title) {
         super(title);    // Frame title
-        // setUndecorated(true);    // Remove frame title bar
-
+        
         Piano piano = new Piano();                                                    // Create piano
         JPanel pianoHUD = piano.getHUD();                                             // Get piano HUD
         AudioEngine audioEngine = new AudioEngine();                                  // Create audio engine
         InputController inputController = new InputController(piano, audioEngine);    // Create input controller
-
-        // int width = getWidth();
-        // int height = getHeight();
-
-        // addComponentListener(new ComponentAdapter() {
-        //     @Override
-        //     public void componentResized(ComponentEvent e) {
-        //         // Update dimensions of piano keys
-        //         piano.updateDimensions(width, height);
-        //     }
-        // });
 
         add(piano, BorderLayout.CENTER);                   // Add piano to frame center
         add(pianoHUD, BorderLayout.NORTH);                 // Add piano HUD to frame north
