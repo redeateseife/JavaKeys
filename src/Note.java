@@ -1,14 +1,3 @@
-// Note.java
-
-/**
- * Note is an enum of piano notes that are
- * played when the corresponding piano key is pressed.
- *
- * @author Redeate Seife
- * @since 2026-05-15
- * @version 2.0
- */
-
 public enum Note {
 
     // Note values
