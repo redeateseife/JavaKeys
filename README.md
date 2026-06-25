@@ -98,10 +98,6 @@ both mouse and keyboard input events.
 - Multiple instrument sound packs
 
 ## Demo
-```
-Press 'A' -> plays C4
-Click 'F' -> plays F4
-```
 | Windows | Linux | 
 | :---: | :---: |
 | ![JavaKeys - Windows](images/javakeys-windows.png) | ![JavaKeys - Linux](images/javakeys-linux.png) |
