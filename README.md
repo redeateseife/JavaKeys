@@ -23,9 +23,6 @@ Redeate Seife
 audio/
     WAV audio files used for playback
 
-images/
-    PNG files used for demo screenshots
-
 src/
     JavaKeys.java           Program entry point
     Piano.java              Handles piano GUI
